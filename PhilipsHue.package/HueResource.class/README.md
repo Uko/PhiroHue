@@ -1,0 +1,1 @@
+A base subclass for a rest resource

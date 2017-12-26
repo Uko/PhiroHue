@@ -1,0 +1,1 @@
+Mostly used to simplify implementation. Incorporates main actions (get, post) for a provided resource class

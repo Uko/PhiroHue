@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "YuriyTymchuk 12/26/2017 21:43",
+	"super" : "Object",
+	"category" : "PhilipsHue",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"address",
+		"rule",
+		"reifiedResource"
+	],
+	"name" : "HueRuleSubresource",
+	"type" : "normal"
+}

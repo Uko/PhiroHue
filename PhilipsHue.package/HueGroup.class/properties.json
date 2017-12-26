@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "YuriyTymchuk 12/26/2017 22:13",
+	"super" : "HueResource",
+	"category" : "PhilipsHue",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lights"
+	],
+	"name" : "HueGroup",
+	"type" : "normal"
+}

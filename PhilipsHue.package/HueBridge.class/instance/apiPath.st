@@ -1,0 +1,4 @@
+helpers
+apiPath
+
+	^ '/api/', authtoken, '/' 

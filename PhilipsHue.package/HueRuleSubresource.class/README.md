@@ -1,0 +1,1 @@
+Common subclass for rule's actions and conditions

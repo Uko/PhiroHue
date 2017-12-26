@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "YuriyTymchuk 12/26/2017 21:43",
+	"super" : "HueRuleSubresource",
+	"category" : "PhilipsHue",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"method",
+		"body"
+	],
+	"name" : "HueAction",
+	"type" : "normal"
+}
