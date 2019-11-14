@@ -1,1 +1,0 @@
-Condition that has to be satisfied for a rule to act

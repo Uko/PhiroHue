@@ -1,1 +1,0 @@
-The main entry point to connects to a bridge and controll Philips lights 

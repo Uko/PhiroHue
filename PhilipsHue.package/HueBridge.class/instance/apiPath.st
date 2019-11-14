@@ -1,4 +1,0 @@
-helpers
-apiPath
-
-	^ '/api/', authtoken, '/' 

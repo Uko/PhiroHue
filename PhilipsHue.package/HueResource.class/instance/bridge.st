@@ -1,4 +1,0 @@
-accessing
-bridge
-
-	^ manager bridge
